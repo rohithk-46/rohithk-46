@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Rohith K
 
-<!--
-**rohithk-46/rohithk-46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 B.Tech AI & Data Science Student at Jeppiaar University
+- 💻 Learning Python, HTML, CSS, JavaScript & SQL
+- 🌱 Currently building Front-End and Full-Stack projects
+- 🚀 Looking for Internship Opportunities
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🍽️ Chennai Kitchen Website
+- ☕ Chennai Coffee Website
+- 🏨 Hotel Booking Website
+
+## 📫 Contact
+📧 rohithk2609@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/rohithk25
