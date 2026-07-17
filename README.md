@@ -19,8 +19,8 @@
 - ☕ Chennai Coffee Website
 - 🏨 Hotel Booking Website
 
-## 📫 Contact
-📧 rohithk2609@gmail.com
+📫 E-Mail: 
+rohithk2609@gmail.com
 
 🔗 LinkedIn:
 https://linkedin.com/in/rohithk25
