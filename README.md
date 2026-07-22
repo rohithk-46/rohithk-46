@@ -10,7 +10,7 @@
 - Python
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Basic)
 - SQL
 - Git & GitHub
 
