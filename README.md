@@ -89,7 +89,10 @@ class Rohith:
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center"><a href="#">🔗 View Project</a></p>
+      <p align="center">
+  <a href="https://github.com/rohithk-46/chennai-coffee-landing-page">
+    🔗 View Project </a>
+</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🍛 Chennai Kitchen Restaurant</h3>
