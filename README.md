@@ -136,11 +136,16 @@ class Rohith:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4f8fff,100:0d1117&height=3" />
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./assets/random-snake.gif" width="100%" alt="Contribution Snake">
+  <img src="./assets/random-snake.gif"
+       width="100%"
+       alt="Contribution Snake">
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4f8fff,100:0d1117&height=3" />
 
 ## 📫 Let's Connect
 
