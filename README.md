@@ -66,7 +66,7 @@ class Rohith:
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p align="center"><a href="#https://github.com/rohithk-46/hotel-booking-website.git">🔗 View Project</a></p>
+      <p align="center"><a href="#">🔗 View Project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">👤 Personal Portfolio</h3>
